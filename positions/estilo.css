@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    width: 600px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+.elemento-static {
+    position: static;
+}
+
+.elemento-relative {
+    position: relative;
+    top: 70px;
+    left: 80px;
+}
+
+.elemento-absolute {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.sticky {
+    position: sticky;
+    top: 100px;
+}

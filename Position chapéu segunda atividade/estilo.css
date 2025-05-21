@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecario {
+    background-color: palevioletred;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pessoa-pontinhos {
+    padding-top: 100px;
+    margin-left: 650px;
+}
+
+.chapeu-encaixe {
+    position: absolute;
+    top: 230px;
+    margin-left: 707px;
+}
+
+footer {
+    background-color: palevioletred;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

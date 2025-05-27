@@ -13,7 +13,6 @@ Neste repositório, você encontrará:
 
 - 📌 Projetos desenvolvidos durante a disciplina de HTML e CSS.  
 - 🎨 Exercícios e páginas criadas para praticar estruturação e estilização web.  
-- 📝 Anotações úteis e materiais complementares para reforço do conteúdo.
 
 ---
 
